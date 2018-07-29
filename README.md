@@ -19,7 +19,8 @@ G-Sensor or Gravity sensor is basically Accelerometer in Smart phone which is us
 # Creating Interface for Robot using RemoteXY app:
 For creating the interface to control the Robot Car using RemoteXY app, you will have to go to following link
 
-[I'm an inline-style link] http://remotexy.com/en/editor/ The webpage will look like this:
+http://remotexy.com/en/editor
+The webpage will look like this:
 ![alt text](https://github.com/shakirul15-311/G-SENSOR-CNTROLLED-CAR-USING-ARDUINO/blob/master/1.png "Remote XY app")
 
 
