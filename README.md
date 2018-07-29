@@ -1,6 +1,6 @@
 #  G-SENSOR CNTROLLED CAR USING ARDUINO
 
-![Full Project](https://github.com/shakirul15-311/G-SENSOR-CNTROLLED-CAR-USING-ARDUINO/blob/master/3.jpg "Remote XY app")
+![Mobile Phone Controlled Robot Car using G-Sensor and Arduino](https://github.com/shakirul15-311/G-SENSOR-CNTROLLED-CAR-USING-ARDUINO/blob/master/3.jpg "Remote XY app")
 
 In this article, we are going to Control the Robot Car through the G sensor of our mobile phone and you will be able to move the Robot just by tilting the Phone. We will also use Arduino and RemoteXY app for this G-Sensor Controlled Robot. RemoteXY app is used to create the interface in the Smart Phone for controlling the Robot. We will add the joystick in the interface so that Robot can also be controlled by Joystick as well as by tilting the phone.
 
