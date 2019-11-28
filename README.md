@@ -1,4 +1,4 @@
-#  G-SENSOR CNTROLLED CAR USING ARDUINO
+#  G-SENSOR CONTROLLED CAR USING ARDUINO
 
 ![Mobile Phone Controlled Robot Car using G-Sensor and Arduino](https://github.com/shakirul15-311/G-SENSOR-CNTROLLED-CAR-USING-ARDUINO/blob/master/3.jpg "Remote XY app")
 
